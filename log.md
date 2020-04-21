@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [Codepen for shopping cart tenplate](https://codepen.io/JenHsuan/full/ZEbpyOW)
+
+### Day 2: April 21, Tuesday
+
+**Today's Progress**: apply React useContext, useReducer to make the global states manager
+
+**Thoughts** It's convinient to useglobal state instead of props drilling
+
+**Link(s) to work**
+1. [Codepen for global states manager](https://codepen.io/JenHsuan/full/PoPbPQV)
