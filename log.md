@@ -17,3 +17,13 @@
 
 **Link(s) to work**
 1. [Codepen for global states manager](https://codepen.io/JenHsuan/full/PoPbPQV)
+
+
+### Day 3: April 22, Wednesday
+
+**Today's Progress**: create transitions with React-transition-group
+
+**Thoughts** learn how to use transitions in React
+
+**Link(s) to work**
+1. [Codepen for creating transitions with React-transition-group](https://codepen.io/JenHsuan/full/xxwRoKZ)
