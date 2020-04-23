@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [Codepen for creating transitions with React-transition-group](https://codepen.io/JenHsuan/full/xxwRoKZ)
+
+### Day 4: April 23, Thusday
+
+**Today's Progress**: Scroll event handling and localStorage for React component
+
+**Thoughts** Practice styling, localSorage, Scroll event in React component
+
+**Link(s) to work**
+1. [Codepen for scroll event handling and localStorage for React component](https://codepen.io/JenHsuan/full/Baopror)
