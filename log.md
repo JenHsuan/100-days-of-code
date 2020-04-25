@@ -27,3 +27,31 @@
 
 **Link(s) to work**
 1. [Codepen for creating transitions with React-transition-group](https://codepen.io/JenHsuan/full/xxwRoKZ)
+
+### Day 4: April 24, Thusday
+
+**Today's Progress**: scroll event handling and localStorage for React component
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Codepen for scroll event handling and localStorage for React component](https://codepen.io/JenHsuan/pen/Baopror)
+
+
+### Day 5: April 25, Friday
+
+**Today's Progress**: complete the login and orders page with DRF and React   
+
+**Thoughts** 
+**Link(s) to work**
+1. [video](https://www.facebook.com/jenhsuanh/videos/10219991593333276)
+
+
+### Day 6: April 26, Saturday
+
+**Today's Progress**: deploy Django application to Heroku and migrate PostgreSQL
+
+**Thoughts** 
+**Link(s) to work**
+1. [article](https://medium.com/a-layman/deploy-django-application-to-heroku-and-migrate-postgresql-36615b5f19cc)
+
